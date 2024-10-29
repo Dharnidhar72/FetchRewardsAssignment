@@ -19,7 +19,7 @@ This project uses:
 - **Pandas** for data manipulation
 - **Matplotlib** and **Seaborn** for visualization
 - **SQLAlchemy** or a similar SQL query runner for executing queries
-- **Jupyter Notebook** for interactive data exploration
+- **Google Colab Notebook** for interactive data exploration
 
 ## Key Tasks
 ### Data Exploration and Quality Check
